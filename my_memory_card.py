@@ -6,7 +6,7 @@ from PyQt5.QtGui import QFont
 
 
 
-
+hi
 #-----------------day 3 part1----------------#
 class Question():
     def __init__(self,question,right_answer,wrong1,wrong2,wrong3):
